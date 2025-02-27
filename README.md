@@ -1,6 +1,4 @@
-# Define the content for README.md for the Smart Plant Watering System
-readme_content_plant = """\
-# 🌱 Smart Plant Watering System using ESP32  
+#Smart Plant Watering System using ESP32  
 
 ## 📌 Overview  
 The **Smart Plant Watering System** is an IoT-based project designed to automate plant irrigation based on **soil moisture levels**. It uses an **ESP32 microcontroller**, **soil moisture sensor**, and a **water pump** to ensure plants receive the right amount of water. The system integrates with **Blynk IoT** for remote monitoring and control.  
